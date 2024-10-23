@@ -1,2 +1,2 @@
-# Discord-Relay
-A relay for Discord so you can access it on blocked networks.
+# Discord Relay   
+its a discord relay what else can i say
